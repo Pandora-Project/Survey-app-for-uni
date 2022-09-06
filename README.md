@@ -4,4 +4,9 @@ Survey app that doesnt allow user to fill same survey twice. Includes random que
 
 # Installation guide
 
-To install app on your machine locally use npm start to boot the app. Do so fro
+To install app on your machine locally use npm install.
+Then go to server and run it with command:
+nodemon start
+
+Then go to client and simultanously run it with command:
+npm start
