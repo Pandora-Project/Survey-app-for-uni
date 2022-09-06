@@ -1,6 +1,7 @@
 # Survey-app-for-uni
 
-Survey app that doesnt allow user to fill same survey twice.Is scalable, survey is responsive. Built using SurveyJS library, React for frontend and NodeJs for backend.
+Survey app that doesnt allow user to fill same survey twice. Is scalable, survey is responsive. Built using SurveyJS library, React for frontend and NodeJs for backend.
+Database of choice was MongoDB.
 
 # Installation guide
 
