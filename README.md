@@ -8,7 +8,7 @@ Database of choice was MongoDB.
 To install app on your machine locally use npm install.
 Then go to server directory and run it with command:
 
-**nodemon start**
+**npm start**
 
 Then go to client directory and simultanously run it with command:
 
