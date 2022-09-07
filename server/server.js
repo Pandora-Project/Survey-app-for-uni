@@ -6,7 +6,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const uri = "mongodb+srv://admin:admin@surveyapp.jnp2xsi.mongodb.net/?retryWrites=true&w=majority";
+const uri = "mongodb+srv://admin:<password>@surveyapp.jnp2xsi.mongodb.net/?retryWrites=true&w=majority";
 mongoose.connect(uri);
 const connection = mongoose.connection;
 connection.once('open', () => {
